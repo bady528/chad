@@ -1,0 +1,6 @@
+{
+  "name": "Tagalog Text to Voice Converter",
+  "description": "High-quality, crisp, and accurate Tagalog voice generator with no text length limits, automatic segmenting, continuous playback, and one-click merged download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
